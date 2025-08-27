@@ -33,4 +33,12 @@ In this challenge, you'll build a beautiful product page. We'll be putting your 
 
 ![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
 
-**Level:** 3 / 5
+## 🏅 Level
+
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
