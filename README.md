@@ -1,4 +1,4 @@
-# 📁 E-Commerce Product Page
+# 📂 E-Commerce Product Page
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1715958959/Challenges/nnhmflkuam4gr1dnnddf.jpg)
 
